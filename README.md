@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-Same portfolio tailored for smaller screens and window sizes
+Same as Basic-Portfolio. Responsive to smaller screens and window sizes
